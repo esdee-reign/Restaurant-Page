@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esdee-reign/Restaurant-Page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esdee-reign/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/esdee-reign/Restaurant-Page#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^4.7.0"
+  }
+}
